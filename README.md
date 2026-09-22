@@ -3,7 +3,7 @@
 ### Full-Stack Web Developer & Computer Engineering Student
 I build scalable, secure, and production-ready web applications using modern JavaScript/TypeScript ecosystems, robust backend architectures, and AI integrations. I focus on clean state management, data integrity, and excellent UI/UX performance.
 
-🟢 **Looking for:** Remote paid internships, entry-level developer roles, or contract micro-gigs ($150+/mo).
+🟢 **Looking for:** Remote paid internships, entry-level developer roles, or contract micro-gigs.
 
 ---
 
